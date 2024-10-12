@@ -1,9 +1,0 @@
-
-Tema: Plataforma de Gestion de Contenidos para cursos virtuales
-
-Hola buenos días para todos lo entregable para el próximo lunes es:
-
-	1. Pagina de Home
-	2. Página de ingreso al sistema o a la página donde el logeo sea con doble auténticacion (Investigar)
-	3. Mínimo 3 páginas de la lógica del negocio del proyecto
-	4. Una operación básica aplicada a su lógica de negocio en JS
